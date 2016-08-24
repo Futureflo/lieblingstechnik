@@ -1,0 +1,49 @@
+/*
+Stylesheet um Kontaktformular einspaltig zu gestalten
+
+Datei: form-einspaltig.css
+Autor: Florian Fay
+Datum: 25.09.2015
+*/
+
+@media screen {
+
+form {
+  background-color: #eee;
+  width: 320px;
+  padding: 1em;
+  margin-bottom: 2em;
+  line-height: 1.2;
+}
+  
+  form > div { margin-bottom: 1em;}
+  
+  label {
+    display: block;
+    cursor: pointer;
+    margin-bottom: 0.25em;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  textarea {
+  
+    width: 280px;
+    padding: 0.25em;
+    margin-bottom: 1em;
+  }
+  
+  textarea {
+    max-width: 100%;
+    min-height: 7em;
+  }
+  
+  input:focus,
+  textarea:focus {
+    background-color: #ffeda0;
+  }
+} /* Ende @media - nicht löschen! */
+  
+/*
+ENDE form-einspaltig.css
+*/

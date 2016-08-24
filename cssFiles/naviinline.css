@@ -1,0 +1,42 @@
+/*
+Stylesheet für eine horizontale Navigation mit display:inline
+
+Datei: naviinline.css
+Autor: Florian Fay
+Datum: 24.09.2015
+*/
+
+@media screen {
+
+#navibereich {
+  background-color: lightgrey;
+  padding: 5px 20px;
+}
+  
+#navibereich li {
+  display: inline;
+  list-style-type: none;
+  maring: 0 10px 0 0;
+}
+  
+#navibereich ul { margin: 0;}
+
+#navibereich a {
+  color: black;
+}
+#navibereich a:hover, 
+#navibereich a:focus {
+    text-decoration: underline;
+}
+  
+#navibereich a:active {
+  color: #d90000;
+  background-color: transparent;
+}
+  
+ 
+} /* Ende @media - nicht löschen! */
+  
+/*
+ENDE naviinline.css
+*/

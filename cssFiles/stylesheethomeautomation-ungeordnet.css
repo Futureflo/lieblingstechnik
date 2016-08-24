@@ -1,0 +1,17 @@
+
+
+header h1 > img {
+  background-color: white;
+  color: black;
+}
+
+
+/* Abstände nach unten */
+h2, p, ul, ol, blockquote {margin-bottom: 1em;}
+
+/* Abstand von links für Listen */
+ul, ol { margin-left: 2em;}
+
+/* Verschachtelte Listen ohne Abstand */
+ul ul, ul ol, ol ol, ol ul { margin-bottom: 0;}
+

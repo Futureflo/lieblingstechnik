@@ -1,0 +1,106 @@
+/*
+Stylesheet für die Gestaltung am Bildschirm
+
+Datei: stylesheethomeautomation.css
+Autor: Florian Fay
+Datum: 24.09.2015
+*/
+
+@media screen {
+
+/*
+  TEIL I - Allgemeine Styles
+*/
+  
+body {
+  
+ /* background: lightgrey url(raspberry128x128.png) fixed repeat left top; */
+  background-color: lightgrey;
+  color: white;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 87.5%;
+  
+}
+
+h1{ font-size: 150%;}
+
+h2{ font-size: 130%;}
+
+address{
+  text-align: center;
+  font-size: 80%;
+  font-style: normal;
+  letter-spacing: 2px;
+  line-height: 1.5;
+}
+
+a{
+  text-decoration: none;
+}
+main a{
+  text-decoration: underline;
+}
+
+a:link {
+  color:#d90000;
+}
+a:visited {color: #cc6666}
+a:hover,
+a:focus {
+  text-decoration: none;
+}
+a:active{
+  background-color: #d90000;
+  color: white;
+}
+
+  
+/*
+  TEIL II - Styles für die Layoutbereiche
+*/
+  
+#wrapper {
+  background-color: white;
+  color: black;
+  width: 1024px;
+  margin-top: 10px;
+  margin-right: auto;
+  margin-bottom: 10px;
+  margin-left: auto;
+}
+  
+#kopfbereich {
+  background-color: black;
+  color: white;
+  padding: 10px 20px 0 20px;
+}
+  
+  img#logo {
+    background-color: white;
+    color:black;
+    padding: 10px;
+    border: 10px solid white;
+  }
+
+  p.slogan {
+    padding: 5px 0;
+    margin-bottom: 0;
+  }
+  p.slogan span { color: #d90000;}
+  
+  
+#inhaltsbereich {
+  padding: 20px;
+}
+  
+#fussbereich {
+  padding: 10px 20px 20px 20px;
+  border-top: 1px solid #8c8c8c;
+  margin-top: 0px;
+}
+  
+} /* Ende @media - nicht löschen! */
+  
+/*
+ENDE fundament.css
+*/

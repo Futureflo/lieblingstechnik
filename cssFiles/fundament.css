@@ -1,0 +1,45 @@
+/*
+Basis-Stylesheet mit Reset und Restaurierung der Abstände
+
+Datei: fundament.css
+Autor: Florian Fay
+Datum: 24.09.2015
+*/
+
+@media all {
+
+/*
+  TEIL I -Reset
+*/
+
+html { overflow-y: scroll;}
+body, div,
+h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, code, 
+ul, ol, li,
+table, th, td,
+form, fieldset, legend, input, textarea {
+  padding: 0; margin: 0;
+}
+  
+/*
+  TEIL II - Abstände restaurieren
+*/
+  
+  h2, h3, h4, h5, h6,
+  p, blockquote, pre,
+  ul, ol {
+    margin-bottom: 1em;
+  }
+  
+  ul, ol {margin-left: 2em;}
+  
+  ul ul, ul ol, ol ol, ol ul {margin-bottom: 0; }
+  
+  blockquote { margin: 1em 2em; }
+  
+} /* Ende @media - nicht löschen! */
+  
+/*
+ENDE fundament.css
+*/
