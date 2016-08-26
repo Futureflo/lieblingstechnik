@@ -15,8 +15,8 @@ include"ausgelagerteFiles/navibereich.php";
 ?>
 
 <main id="inhaltsbereich">
-<h2>Tims Startseiten</h2>
-
+<h2>Startseite</h2>
+<p>Herzlich Willkommen bei <span style="color:red">Lieblingstechnik</span></p>
 <!--
 <hr/>
 <?php
