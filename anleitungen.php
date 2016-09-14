@@ -17,6 +17,7 @@ include"ausgelagerteFiles/navibereich.php";
 <main id="inhaltsbereich">
 <h2>Anleitungen</h2>
 
+<p><a href="InstallationsanleitungGit.pdf">Hier</a> geht es zur Installationsanleitung für Git.</P>
 <!--
 <h3>Kühlkörper anbringen</h3>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/kbzP3-t6aFw" frameborder="0" allowfullscreen></iframe>

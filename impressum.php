@@ -5,7 +5,7 @@ include"ausgelagerteFiles/head.php";
 ?>
 
 <div id="wrapper">
-  
+
 <?php
 include"ausgelagerteFiles/kopfbereich.php";
 ?>
@@ -13,15 +13,15 @@ include"ausgelagerteFiles/kopfbereich.php";
 <?php
 include"ausgelagerteFiles/navibereich.php";
 ?>
-  
+
 <main id="inhaltsbereich">
-  
+
   <h2>Impressum</h2>
 
 <p>Florian Fay<br />
 Echterdingerstr. 31<br />70794 Filderstadt</p>
 <p>Telefon: 01728022182<br />
-E-Mail: <a href="mailto:myheimautomatisierung@gmx.de">myheimautomatisierung@gmx.de</a><br />
+E-Mail: <a href="mailto:flofisch@shaula.uberspace.de">flofisch@shaula.uberspace.de</a><br />
 </p>
 <p><strong>Verantwortlich für den Inhalt</strong> (gem. § 55 Abs. 2 RStV):<br />Florian, Fay<br />
 <br />
@@ -69,9 +69,9 @@ Erlaubnis zulässig.
 Soweit besondere Bedingungen für einzelne Nutzungen dieser Website von den
 vorgenannten Paragraphen abweichen, wird an entsprechender Stelle
 ausdrücklich darauf hingewiesen. In diesem Falle gelten im jeweiligen
-Einzelfall die besonderen Nutzungsbedingungen.<br /><p>Quelle: <a href="http://www.juraforum.de/">Juraforum.de</a> – Impressum Generator</p><br /><br /><h2>Datenschutzerklärung:</h2><p><strong>Datenschutz</strong><br />Nachfolgend möchten wir Sie über unsere Datenschutzerklärung informieren. Sie finden hier Informationen über die Erhebung und Verwendung persönlicher Daten bei der Nutzung unserer Webseite. Wir beachten dabei das für Deutschland geltende Datenschutzrecht. Sie können diese Erklärung jederzeit auf unserer Webseite abrufen. 
+Einzelfall die besonderen Nutzungsbedingungen.<br /><p>Quelle: <a href="http://www.juraforum.de/">Juraforum.de</a> – Impressum Generator</p><br /><br /><h2>Datenschutzerklärung:</h2><p><strong>Datenschutz</strong><br />Nachfolgend möchten wir Sie über unsere Datenschutzerklärung informieren. Sie finden hier Informationen über die Erhebung und Verwendung persönlicher Daten bei der Nutzung unserer Webseite. Wir beachten dabei das für Deutschland geltende Datenschutzrecht. Sie können diese Erklärung jederzeit auf unserer Webseite abrufen.
 <br /><br />
-Wir weisen ausdrücklich darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen und nicht lückenlos vor dem Zugriff durch Dritte geschützt werden kann. 
+Wir weisen ausdrücklich darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen und nicht lückenlos vor dem Zugriff durch Dritte geschützt werden kann.
 <br /><br />
 Die Verwendung der Kontaktdaten unseres Impressums zur gewerblichen Werbung ist ausdrücklich nicht erwünscht, es sei denn wir hatten zuvor unsere schriftliche Einwilligung erteilt oder es besteht bereits eine Geschäftsbeziehung. Der Anbieter und alle auf dieser Website genannten Personen widersprechen hiermit jeder kommerziellen Verwendung und Weitergabe ihrer Daten.
 <br /><br />
@@ -87,7 +87,7 @@ Im Rahmen der Kommentarfunktion erheben wir personenbezogene Daten (z.B. Name, E
 <?php
 include"ausgelagerteFiles/fussbereich.php";
 ?>
-  
+
 </div><!--Ende Wrapper -->
 </body>
 </html>
