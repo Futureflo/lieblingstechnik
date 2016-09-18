@@ -17,7 +17,7 @@ include"ausgelagerteFiles/navibereich.php";
 <main id="inhaltsbereich">
 <h2>Community</h2>
   
-  <h3>Dieser Bereich befindet sich noch im Aufbau. Wir hoffen, dass wir ihn so bald wie möglich zur Verfügung stellen können.</h3>
+  <h3>Dieser Bereich befindet sich noch im Aufbau. Wir hoffen, dass wir ihn so bald wie möglich zur Verfügung stellen können. Ein Kai Kleefisch braucht keine Community</h3>
 </main><!--Ende Inhaltsbereich-->
 
 

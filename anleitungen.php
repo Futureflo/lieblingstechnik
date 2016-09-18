@@ -17,7 +17,15 @@ include"ausgelagerteFiles/navibereich.php";
 <main id="inhaltsbereich">
 <h2>Anleitungen</h2>
 
-<p><a href="InstallationsanleitungGit.pdf">Hier</a> geht es zur Installationsanleitung für Git.</P>
+<img src="bilder/git init 2_big.png" alt="Bild git" height="128" width="160" style="float:left"/>
+<div id="Einführung Git">
+<h3><a href="git.php">Einführung in die Versionsverwaltung mit Git</a></h3>
+Egal ob man seinen eigenen Code versionieren oder mit anderen Entwicklern zusammen arbeiten möchte,
+nichts geht ohne Versionsverwaltung. Da immer mehr Projekte in Teams durchgeführt werden,
+die weltweit verteilt sind, wird die dezentrale Versionsverwaltung immer wichtiger.
+Vor allem in Open-Source-Projekten ist an eine Entwicklung ohne dieses Hilfsmitteln kaum noch zu denken.
+</div>
+
 <!--
 <h3>Kühlkörper anbringen</h3>
 <iframe width="420" height="315" src="https://www.youtube.com/embed/kbzP3-t6aFw" frameborder="0" allowfullscreen></iframe>

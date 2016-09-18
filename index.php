@@ -16,7 +16,10 @@ include"ausgelagerteFiles/navibereich.php";
 
 <main id="inhaltsbereich">
 <h2>Startseite</h2>
-
+<p>Herzlich Willkommen bei <span style="color:red">Lieblingstechnik</span></p>
+<p>Auf dieser Seite möchten wir Euch an unseren Erfahrungen im Bereich der Software-Entwicklung teilhaben lassen.
+  Wir möchten Techniken und Tools vorstellen, die uns gut gefallen und als hilfreich erscheinen.
+</p>
 <!--
 <hr/>
 <?php
