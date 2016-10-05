@@ -8,8 +8,8 @@
     $path = $_SERVER['PHP_SELF'];
     $file = basename($path);
 
-    $title= array('Starseite', 'Anleitungen', 'Community', 'Produktcheck', 'Impressum', 'Kontakt');
-    $menuepunkte = array('index.php', 'anleitungen.php', 'community.php', 'produktcheck.php', 'impressum.php', 'kontakt.php');
+    $title= array('Starseite', 'Anleitungen', 'Schulungen', 'Produktcheck', 'Impressum', 'Kontakt');
+    $menuepunkte = array('index.php', 'anleitungen.php', 'schulungen.php', 'produktcheck.php', 'impressum.php', 'kontakt.php');
 
 
     foreach($menuepunkte as $menuepunkt) {
